@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/validating-form-input.iml" filepath="$PROJECT_DIR$/validating-form-input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/validating-form-input_main.iml" filepath="$PROJECT_DIR$/.idea/modules/validating-form-input_main.iml" group="validating-form-input" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/validating-form-input_test.iml" filepath="$PROJECT_DIR$/.idea/modules/validating-form-input_test.iml" group="validating-form-input" />
     </modules>
   </component>
 </project>
